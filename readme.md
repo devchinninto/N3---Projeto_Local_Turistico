@@ -26,7 +26,7 @@ Para ver o projeto, basta seguir os passos abaixo:
 
 ## 📝 Autor
 
-Feito com ❤️ por **Marcelle Alves DEV** como projeto da formação Full-Stack da Rocketseat 🚀.
+Feito por **Marcelle Alves DEV** como projeto da formação Full-Stack da Rocketseat 🚀.
 
 ## ✅ Status do Projeto
 
